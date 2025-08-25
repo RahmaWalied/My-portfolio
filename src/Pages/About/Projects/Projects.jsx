@@ -3,6 +3,12 @@ import { motion } from "framer-motion";
 import SectionTitle from "./../../../Components/Navbar/SectionTitle/SectionTitle";
 
 const projects = [
+    {
+    title: "Movies App",
+    image: "/Movies.png",
+    link: "https://new-movies-cyan.vercel.app/",
+    tools: ["Next.JS", "Tailwind", "App Router", "Lucide Icons"],
+  },
   {
     title: "FrechCart",
     image: "/frechcart.png",
