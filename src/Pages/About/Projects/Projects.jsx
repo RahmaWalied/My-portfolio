@@ -11,6 +11,12 @@ const projects = [
   },
   {
     title: "FrechCart",
+    image: "/quiz.png",
+    link: "https://quiz-projec.netlify.app/",
+    tools: ["React", "Tailwind"],
+  },
+    {
+    title: "Quiz App",
     image: "/frechcart.png",
     link: "https://freshcart-89924.web.app/home",
     tools: ["React", "Tailwind", "React Router", "Context API"],
