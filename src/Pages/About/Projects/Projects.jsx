@@ -16,7 +16,7 @@ const projects = [
     tools: ["React", "Tailwind"],
   },
     {
-    title: "Quiz App",
+    title: "frech Cart Project",
     image: "/frechcart.png",
     link: "https://freshcart-89924.web.app/home",
     tools: ["React", "Tailwind", "React Router", "Context API"],
