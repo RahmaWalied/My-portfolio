@@ -10,7 +10,7 @@ const projects = [
     tools: ["Next.JS", "Tailwind", "App Router", "Lucide Icons"],
   },
   {
-    title: "FrechCart",
+    title: "Quiz App",
     image: "/quiz.png",
     link: "https://quiz-projec.netlify.app/",
     tools: ["React", "Tailwind"],
